@@ -1,5 +1,5 @@
 # Workout Buddy
-🏋 I made a Social Workout App. Users can make an account, create workouts, invite friends, and view others' workout progress.
+🏋 I made a Social Workout App. Users can make an account and create workouts. Soon to be implemented: invite friends and view others' workout progress.
 
 ## Home Page
 
